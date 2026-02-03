@@ -1,7 +1,7 @@
-# Team <PenangOne Better> – DataHub 📊🤖
+# Team PenangOne Better – DataHub 📊🤖
 
-# DataHub
-An AI-powered operational memory system for workers, managers, users that turns history and reports from a particular organization into structured, actionable intelligence using Vertex AI.
+Welcome to DataHub!
+DataHub is an AI-powered operational memory system for workers, managers, users that turns history and reports from a particular organization into structured, actionable intelligence using Vertex AI.
 
 ## Repository Overview & Team Introduction
 This repository contains source code, documentation, and implementation for **Data-Hub**.
