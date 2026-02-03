@@ -1,5 +1,7 @@
 # Team PenangOneBetter – DataHub 📊🤖
 
+Welcome to DataHub! 🤗
+
 DataHub is an AI-powered operational memory system for workers, managers, users that turns history and reports from a particular organization into structured, actionable intelligence using Vertex AI.
 
 ## Table of Contents
@@ -24,8 +26,8 @@ DataHub addresses this gap by applying AI to interpret frontline reports, connec
 
 **SDG Alignment**
 This project is highly related to 2 SDGs, which are SDG 8 and SDG 9.
-1. ``SDG 8 - Decent Work and Economic Growth``: Enhances workplace efficiency and safety.
-2. ``SDG 9 - Industry, Innovation, and Infrastructure:`` Improves operational infrasturcture and enables better decision-making through technology.
+1. ``SDG 8 💼 - Decent Work and Economic Growth``: Enhances workplace efficiency and safety.
+2. ``SDG 9 🏗️ - Industry, Innovation, and Infrastructure:`` Improves operational infrasturcture and enables better decision-making through technology.
 
 **Solution**
 
