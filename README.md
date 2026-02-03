@@ -1,11 +1,17 @@
 # Team PenangOneBetter – DataHub 📊🤖
 
-Welcome to DataHub!
-
 DataHub is an AI-powered operational memory system for workers, managers, users that turns history and reports from a particular organization into structured, actionable intelligence using Vertex AI.
 
-## Repository Overview & Team Introduction
-This repository contains source code, documentation, and implementation for **Data-Hub**.
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Overview of Technologies Used](#soverview-of-technologies-used)
+
+## Introduction
+Incident reporting in many organizations is still scattered across notebooks, messaging apps, and shift summaries. This fragmentation makes it difficult to detect recurring issues, preserve institutional memory, or identify operational risks early.
+
+DataHub addresses this gap by applying AI to interpret frontline reports, connect related incidents, and surface meaningful patterns — enabling supervisors to act faster and allocate resources more effectively.
 
 **Team Members**
 1. Wong Yonghee - AI / Logic Implementation (Team Leader)
